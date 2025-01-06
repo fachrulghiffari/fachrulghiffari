@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fachrulghiffari
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning, and Data Science
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning Data Engineering
+- 💞️ I’m looking to collaborate on Data Engineering, Machine Learning and Data Science
 
 <!---
 fachrulghiffari/fachrulghiffari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
